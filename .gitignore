@@ -69,7 +69,6 @@ Thumbs.db
 # Binaries
 # --------
 *.dll
-*.exe
 
 .user
 CMakeLists.txt.user
